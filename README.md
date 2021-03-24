@@ -8,16 +8,26 @@
 
 > Code along of a 45 min tutorial on Flask by freecodecamp
 
-
-
 ### ✨ [Demo](https://flaskcrudapptutorialparth.herokuapp.com/)
+
+## Install
+
+```sh
+pip install -r requirements.txt
+```
+
+## Usage
+
+```sh
+After installing the requirements.txt, run app.py using python or python3 and you are good to go
+```
 
 ## Author
 
 👤 **Parth Shah**
 
 * Github: [@parthmshah1302](https://github.com/parthmshah1302)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/parthmshah1302\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/parthmshah1302\/)
+* LinkedIn: [@parthmshah1302](https://linkedin.com/in/parthmshah1302)
 
 ## Show your support
 
