@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+table, th, td {
+    border: 0.1px solid black;
+    
+  }
